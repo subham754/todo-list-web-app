@@ -16,10 +16,8 @@ A simple and elegant To-Do List application built using HTML, CSS, and JavaScrip
 - HTML
 - CSS
 - JavaScript (Vanilla)
-
-## 📷 Screenshot
-![Screenshot](![Uploading image.png…]
-
-
 ## 📜 License
 MIT License
+
+
+         ## THANK YOU ##
