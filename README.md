@@ -10,7 +10,7 @@ A simple and elegant To-Do List application built using HTML, CSS, and JavaScrip
 - Mobile responsive design
 
 ## 🔗 Live Preview
-[Click here to view the live app](https://subham754.github.io/todo-list-web-app/)
+[Click here to view the live app](https://subham754.github.io/todo-list-web-app/login.html)
 
 ## 📁 Tech Stack
 - HTML
@@ -19,5 +19,3 @@ A simple and elegant To-Do List application built using HTML, CSS, and JavaScrip
 ## 📜 License
 MIT License
 
-
-         ## THANK YOU ##
