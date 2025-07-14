@@ -1,4 +1,4 @@
-# 📝 To-Do List Web App
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/859c373e-d332-4042-8563-dfe22a72077f" /># 📝 To-Do List Web App
 
 A simple and elegant To-Do List application built using HTML, CSS, and JavaScript.
 
@@ -10,7 +10,7 @@ A simple and elegant To-Do List application built using HTML, CSS, and JavaScrip
 - Mobile responsive design
 
 ## 🔗 Live Preview
-[Click here to view the live app](https://your-username.github.io/todo-list-web-app/)
+[Click here to view the live app](https://subham754.github.io/todo-list-web-app/)
 
 ## 📁 Tech Stack
 - HTML
@@ -18,7 +18,8 @@ A simple and elegant To-Do List application built using HTML, CSS, and JavaScrip
 - JavaScript (Vanilla)
 
 ## 📷 Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](![Uploading image.png…]
+
 
 ## 📜 License
 MIT License
